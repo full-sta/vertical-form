@@ -1,14 +1,3 @@
-*{
-    margin:0px;
-    
-}
-.main-body{
-    color: rgb(250, 244, 244);
-    background-color: rgb(15, 0, 0);
-    height: 95vh;
-    
-
-}
 .main-content{
     padding-top: 30px;
     padding-left: 30px;
@@ -383,3 +372,4 @@ background-color: rgb(8, 0, 0);
     width: 40px;
 
 }
+
